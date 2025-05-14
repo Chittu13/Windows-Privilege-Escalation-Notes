@@ -1,12 +1,12 @@
 # Windows-Privilege-Escalation-Notes
 
 # Windows Privilege Escalation
-- Preferable room is https://tryhackme.com/room/windows10privesc, but u can use anything of your choice.
+- Preferable room is [window10privesc](https://tryhackme.com/room/windows10privesc), but u can use anything of your choice.
 - Some resources,
-	- https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
-	- https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
-	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
-	- https://www.fuzzysecurity.com/tutorials/16.html
+	- [absolomb.com](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+	- [sushant747.gitbooks.io](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
+	- [github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+	- [fuzzysecurity.com/](https://www.fuzzysecurity.com/tutorials/16.html)
 
 ---------------
 ### Types of accounts in windows machines:
@@ -21,7 +21,7 @@
 
 ---------------
 ### Information Gathering:
-- One of the best Resource: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md 
+- One of the best Resource: [/github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md) 
 1. `whoami /priv` - current user's privileges
 2. `net users` - lists all users
 3. `net user <username>` - lists details of a specific user
