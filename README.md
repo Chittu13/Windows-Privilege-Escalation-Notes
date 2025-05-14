@@ -1,4 +1,4 @@
-# Windows-Privilege-Escalation-Notes
+
 
 <p align="center">
   <img width="300" height="300" src="/Image/win1.png">
@@ -6,12 +6,13 @@
 
 
 # Windows Privilege Escalation
-- Preferable room is [window10privesc](https://tryhackme.com/room/windows10privesc), but u can use anything of your choice.
-- Some resources,
-	- [absolomb.com](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
-	- [sushant747.gitbooks.io](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
-	- [github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
-	- [fuzzysecurity.com/](https://www.fuzzysecurity.com/tutorials/16.html)
+> [!IMPORTANT]
+> - Preferable room is [window10privesc](https://tryhackme.com/room/windows10privesc), but u can use anything of your choice.
+> - Some resources,
+> - [absolomb.com](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+> - [sushant747.gitbooks.io](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
+> - [github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+> - [fuzzysecurity.com/](https://www.fuzzysecurity.com/tutorials/16.html)
 
 ---------------
 ### Types of accounts in windows machines:
