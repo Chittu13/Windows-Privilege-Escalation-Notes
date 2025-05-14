@@ -1,7 +1,7 @@
 # Windows-Privilege-Escalation-Notes
 
 <p align="center">
-  <img width="300" height="300" src="/Image/winlogo9.png">
+  <img width="300" height="300" src="/Image/winlog.png">
 </p>
 
 
