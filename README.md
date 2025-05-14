@@ -46,10 +46,11 @@
 ----------------------------
 ### Windows Exploit Suggester:
 - This is a legendary tool that most people use
+- Link: [Windows-Explit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 - We can solve 60% boxes out there on internet using this tool
-- Link: https://github.com/AonCyberLabs/Windows-Exploit-Suggester 
-- Just have a copy of output of `systeminfo` tool in your machine and this is the only requirement for this tool
-- Pro Tip: Make sure all dependancies are fulfilled!
+- Just have a copy of output of systeminfo tool in your machine and this is the only requirement for this tool
+
+
 
 -------------------------
 ### Vulnerable Software:
